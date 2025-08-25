@@ -11,10 +11,10 @@
 
 <br/>
 
-<div align="center">
+
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-In%20Progress-blue)
 
-</div>
+
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
